@@ -6,7 +6,7 @@ How to start :
 
 1.  Clone the repo:
 
-        git clone https://github.com/christopher4lis/canvas-boilerplate.git
+        git clone https://github.com/AnirudhaRamteke/circular-motion.git
 
 2.  Install dependencies:
 
